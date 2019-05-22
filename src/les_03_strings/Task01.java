@@ -9,8 +9,6 @@ public class Task01 {
         System.out.println("Input PIB:");
         String fio=scanner.nextLine();
 
-        //String fio="qqqqqq wwwww eeeee";
-
         Boolean pr=fio.contains(" ");
         int lastIndex=0;
 
