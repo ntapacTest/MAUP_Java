@@ -20,8 +20,12 @@ public class ArrayCopy {
         System.out.println("copy2 = " + Arrays.toString(copy2));
 
         // 3
-        int[] copy3= Arrays.copyOfRange(a,0,a.length);
+        int[] copy3= Arrays.copyOfRange(a,0,a.length-2);
         System.out.println("copy3 = " + Arrays.toString(copy3));
+
+        // 4
+        int[] copy4= Arrays.copyOf(a,10);
+        System.out.println("copy4 = " + Arrays.toString(copy4));
 
     }
 }
