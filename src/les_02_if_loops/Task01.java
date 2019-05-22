@@ -1,4 +1,4 @@
-package les_03_strings;
+package les_02_if_loops;
 
 import java.util.Scanner;
 
