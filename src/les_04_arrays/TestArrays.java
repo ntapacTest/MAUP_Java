@@ -8,7 +8,6 @@ public class TestArrays {
             intArray[i] = i;
             System.out.println("intArray[" + i + "] = " + intArray[i]);
         }
-
     }
 
 }
