@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94958fa7-43ac-4443-a27d-846ac9121dc3" name="Default Changelist" comment="Add Task01">
-      <change afterPath="$PROJECT_DIR$/src/les_04_arrays/Home01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_04_arrays/Home06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_05_methods/MethodChangesInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_05_methods/TestFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_05_methods/TestPalindrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_05_methods/TestPrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_05_methods/MethodChangesInputString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,15 +21,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="38" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="9" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/les_04_arrays/Task01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -87,14 +73,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/les_05_methods/MethodChangesInput.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+            <state relative-caret-position="578">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/les_05_methods/MethodChangesInputString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -163,6 +158,7 @@
         <option value="$PROJECT_DIR$/src/les_05_methods/TestPrimeNumbers.java" />
         <option value="$PROJECT_DIR$/src/les_05_methods/TestPalindrom.java" />
         <option value="$PROJECT_DIR$/src/les_05_methods/MethodChangesInput.java" />
+        <option value="$PROJECT_DIR$/src/les_05_methods/MethodChangesInputString.java" />
       </list>
     </option>
   </component>
@@ -233,13 +229,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodChangesInput">
-    <configuration name="Home06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="les_04_arrays.Home06" />
+  <component name="RunManager" selected="Application.MethodChangesInputString">
+    <configuration name="MethodChangesInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="les_05_methods.MethodChangesInput" />
       <module name="MAUP_JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="les_04_arrays.*" />
+          <option name="PATTERN" value="les_05_methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,8 +243,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodChangesInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="les_05_methods.MethodChangesInput" />
+    <configuration name="MethodChangesInputString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="les_05_methods.MethodChangesInputString" />
       <module name="MAUP_JavaProject" />
       <extension name="coverage">
         <pattern>
@@ -314,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodChangesInputString" />
         <item itemvalue="Application.MethodChangesInput" />
         <item itemvalue="Application.TestPalindrom" />
         <item itemvalue="Application.TestPrimeNumbers" />
         <item itemvalue="Application.TestFactorial" />
-        <item itemvalue="Application.Home06" />
       </list>
     </recent_temporary>
   </component>
@@ -681,11 +677,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/les_05_methods/MethodChangesInput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        <state relative-caret-position="578">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/les_05_methods/MethodChangesInputString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
         </state>
       </provider>
     </entry>
