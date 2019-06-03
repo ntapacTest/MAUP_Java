@@ -17,7 +17,7 @@ public class Manager extends Worker {
     public String toString() {
         return "Manager{" +
                 "name='" + name + '\'' +
-                ", salary=" + getSalary() +
+                ", salary=" + salary +"("+bonus+")" +
                 '}';
     }
 }
