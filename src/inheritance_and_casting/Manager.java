@@ -13,6 +13,10 @@ public class Manager extends Worker {
         return super.getSalary()+bonus;
     }
 
+    public int getBonus() {
+        return bonus;
+    }
+
     @Override
     public String toString() {
         return "Manager{" +
