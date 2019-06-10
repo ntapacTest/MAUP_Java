@@ -1,4 +1,4 @@
-package inheritance_and_casting;
+package les_09_inheritance_and_casting;
 
 import java.util.Arrays;
 

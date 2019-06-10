@@ -1,4 +1,4 @@
-package inheritance_and_casting;
+package les_09_inheritance_and_casting;
 
 public class Manager extends Worker {
     public int bonus;
