@@ -5,21 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94958fa7-43ac-4443-a27d-846ac9121dc3" name="Default Changelist" comment="Add Task01">
-      <change afterPath="$PROJECT_DIR$/src/Numbers/IAddable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Numbers/IMultiable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Numbers/Numb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Numbers/TestNumb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_10_interfaces/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_10_interfaces/PersonByAgeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_10_interfaces/PersonByNameComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_10_interfaces/TestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_11_enums/Season.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_11_enums/TestSeason.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/library/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/library/BookByAuthorComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/library/BookByNameComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/library/Library.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/library/TestLibrary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_11_enums/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_11_enums/AppleByPriceComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_11_enums/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_11_enums/TestApple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_11_enums/TestSeason.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/BookByAuthorComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/BookByNameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/TestLibrary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MAUP_JavaProject/inheritance_and_casting/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MAUP_JavaProject/inheritance_and_casting/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MAUP_JavaProject/inheritance_and_casting/Worker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance_and_casting/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/les_09_inheritance_and_casting/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance_and_casting/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/les_09_inheritance_and_casting/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance_and_casting/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/les_09_inheritance_and_casting/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MAUP_JavaProject/Numbers/IAddable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/Numbers/IAddable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MAUP_JavaProject/Numbers/IMultiable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/Numbers/IMultiable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MAUP_JavaProject/Numbers/INumbValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MAUP_JavaProject/Numbers/Numb.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/Numbers/Numb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MAUP_JavaProject/Numbers/Numb2.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,101 +42,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/les_10_interfaces/PersonByNameComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="66" lean-forward="true" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
-              <folding>
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Numbers/Numb.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-              <folding>
-                <element signature="e#79#80#0" expanded="true" />
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#612#613#0" expanded="true" />
-                <element signature="e#636#637#0" expanded="true" />
-                <element signature="e#874#875#0" expanded="true" />
-                <element signature="e#901#902#0" expanded="true" />
-                <element signature="e#965#966#0" expanded="true" />
-                <element signature="e#992#993#0" expanded="true" />
-                <element signature="e#1059#1060#0" expanded="true" />
-                <element signature="e#1086#1087#0" expanded="true" />
-                <element signature="e#1148#1149#0" expanded="true" />
-                <element signature="e#1175#1176#0" expanded="true" />
-                <element signature="e#820#821#0" expanded="true" />
-                <element signature="e#847#848#0" expanded="true" />
-                <element signature="e#898#899#0" expanded="true" />
-                <element signature="e#925#926#0" expanded="true" />
-                <element signature="e#1031#1032#0" expanded="true" />
-                <element signature="e#1058#1059#0" expanded="true" />
-                <element signature="e#1107#1108#0" expanded="true" />
-                <element signature="e#1134#1135#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Numbers/IMultiable.java">
+        <entry file="file://$PROJECT_DIR$/src/les_11_enums/Apple.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Numbers/TestNumb.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Numbers/IAddable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ComparableTimSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="319" column="21" selection-start-line="319" selection-start-column="21" selection-end-line="319" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/les_10_interfaces/TestPerson.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="16" column="108" selection-start-line="16" selection-start-column="108" selection-end-line="16" selection-end-column="108" />
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <folding>
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/les_10_interfaces/PersonByAgeComparator.java">
+        <entry file="file://$PROJECT_DIR$/src/les_11_enums/TestApple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="410">
+              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/les_11_enums/AppleByPriceComparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="60" lean-forward="true" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+              <folding>
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,6 +87,7 @@
       <list>
         <option value="Singleton" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -151,17 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test_modifiers/A.java" />
-        <option value="$PROJECT_DIR$/src/test_modifiers/B.java" />
-        <option value="$PROJECT_DIR$/src/test_modifiers/another_package/C.java" />
-        <option value="$PROJECT_DIR$/src/test_modifiers/D.java" />
-        <option value="$PROJECT_DIR$/src/test_modifiers/another_package/E.java" />
-        <option value="$PROJECT_DIR$/src/inheritance_and_casting/Worker.java" />
-        <option value="$PROJECT_DIR$/src/inheritance_and_casting/Test.java" />
-        <option value="$PROJECT_DIR$/src/inheritance_and_casting/Manager.java" />
-        <option value="$PROJECT_DIR$/src/les_08_abstract/Point1d.java" />
-        <option value="$PROJECT_DIR$/src/les_08_abstract/Point2D.java" />
-        <option value="$PROJECT_DIR$/src/les_08_abstract/Point.java" />
         <option value="$PROJECT_DIR$/src/les_08_abstract/Test.java" />
         <option value="$PROJECT_DIR$/src/les_08_abstract/Point1D.java" />
         <option value="$PROJECT_DIR$/src/les_08_abstract/Shape3D.java" />
@@ -192,7 +129,6 @@
         <option value="$PROJECT_DIR$/src/les_08_interface/Test02.java" />
         <option value="$PROJECT_DIR$/src/les_10_interfaces/PersonComparator.java" />
         <option value="$PROJECT_DIR$/src/les_10_interfaces/PersonByNameComparator.java" />
-        <option value="$PROJECT_DIR$/src/les_10_interfaces/Person.java" />
         <option value="$PROJECT_DIR$/src/les_10_interfaces/PersonByAgeComparator.java" />
         <option value="$PROJECT_DIR$/src/les_10_interfaces/TestPerson.java" />
         <option value="$PROJECT_DIR$/src/Numbers/INumbValue.java" />
@@ -202,6 +138,18 @@
         <option value="$PROJECT_DIR$/src/Numbers/IAddable.java" />
         <option value="$PROJECT_DIR$/src/Numbers/IMultiable.java" />
         <option value="$PROJECT_DIR$/src/Numbers/Numb.java" />
+        <option value="$PROJECT_DIR$/src/les_10_interfaces/Person.java" />
+        <option value="$PROJECT_DIR$/src/library/Book.java" />
+        <option value="$PROJECT_DIR$/src/library/BookByAuthorComparator.java" />
+        <option value="$PROJECT_DIR$/src/library/BookByNameComparator.java" />
+        <option value="$PROJECT_DIR$/src/library/TestLibrary.java" />
+        <option value="$PROJECT_DIR$/src/library/Library.java" />
+        <option value="$PROJECT_DIR$/src/les_11_enums/TestEnum.java" />
+        <option value="$PROJECT_DIR$/src/les_11_enums/TestSeason.java" />
+        <option value="$PROJECT_DIR$/src/les_11_enums/Season.java" />
+        <option value="$PROJECT_DIR$/src/les_11_enums/AppleByPriceComparator.java" />
+        <option value="$PROJECT_DIR$/src/les_11_enums/Apple.java" />
+        <option value="$PROJECT_DIR$/src/les_11_enums/TestApple.java" />
       </list>
     </option>
   </component>
@@ -223,6 +171,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -236,11 +185,16 @@
               <item name="MAUP_Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MAUP_JavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MAUP_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="les_11_enums" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,26 +214,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestNumb">
+  <component name="RunManager" selected="Application.TestApple">
     <configuration name="Task02" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="les_03_strings.Task02" />
       <module name="MAUP_JavaProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="les_02_if_loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="les_08_abstract.Test01" />
-      <module name="MAUP_JavaProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="les_08_abstract.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,12 +241,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="les_08_interface.Test02" />
+    <configuration name="TestApple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="les_11_enums.TestApple" />
       <module name="MAUP_JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="les_08_interface.*" />
+          <option name="PATTERN" value="les_11_enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,12 +254,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="les_08_abstract.Test02" />
+    <configuration name="TestLibrary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="library.TestLibrary" />
       <module name="MAUP_JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="les_08_abstract.*" />
+          <option name="PATTERN" value="library.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,13 +293,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestSeason" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="les_11_enums.TestSeason" />
+      <module name="MAUP_JavaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="les_11_enums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestApple" />
+        <item itemvalue="Application.TestSeason" />
+        <item itemvalue="Application.TestLibrary" />
         <item itemvalue="Application.TestNumb" />
         <item itemvalue="Application.TestPerson" />
-        <item itemvalue="Application.Test02 (1)" />
-        <item itemvalue="Application.Test01" />
-        <item itemvalue="Application.Test02" />
       </list>
     </recent_temporary>
   </component>
@@ -424,7 +378,7 @@
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25704697" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26040268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -433,15 +387,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48389262" visible="true" weight="0.32909605" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.490604" weight="0.3997175" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4818792" visible="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4899329" weight="0.3997175" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32909605" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5161074" side_tool="true" visible="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5181208" side_tool="true" visible="true" weight="0.32909605" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4986577" weight="0.32909605" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49597314" weight="0.32909605" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49530202" weight="0.32909605" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24966443" />
@@ -491,108 +445,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test_modifiers/D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test_modifiers/another_package/E.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/les_09_inheritance_and_casting/Worker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/les_09_inheritance_and_casting/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="38" column="39" lean-forward="true" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/les_07_inheritance/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/les_08_abstract/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/les_07_inheritance/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/les_08_abstract/Shape3D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/les_08_abstract/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="27" selection-start-line="5" selection-start-column="30" selection-end-line="6" selection-end-column="27" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/les_08_abstract/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/les_08_abstract/Cube.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding>
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/les_08_abstract/Test02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/les_08_abstract/Shape2D.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -682,17 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="120" column="32" lean-forward="true" selection-start-line="120" selection-start-column="32" selection-end-line="120" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
-          <folding>
-            <element signature="e#10065#10066#0" expanded="true" />
-            <element signature="e#10148#10149#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -818,20 +659,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/les_10_interfaces/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="38" column="17" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="38" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/les_09_inheritance_and_casting/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -846,54 +673,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ComparableTimSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="319" column="21" selection-start-line="319" selection-start-column="21" selection-end-line="319" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Numbers/INumbValue.java" />
+    <entry file="file://$PROJECT_DIR$/src/Numbers/Numb2.java" />
     <entry file="file://$PROJECT_DIR$/src/les_10_interfaces/PersonByNameComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="66" lean-forward="true" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Numbers/Numb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
           <folding>
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/les_10_interfaces/TestPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="16" column="108" selection-start-line="16" selection-start-column="108" selection-end-line="16" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Numbers/INumbValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Numbers/TestNumb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Numbers/Numb2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#873#874#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -905,6 +702,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Numbers/TestNumb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Numbers/IAddable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -912,41 +716,169 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Numbers/Numb.java">
+    <entry file="file://$PROJECT_DIR$/src/les_10_interfaces/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        <state relative-caret-position="246">
+          <caret line="38" column="17" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="38" selection-end-column="17" />
           <folding>
-            <element signature="e#79#80#0" expanded="true" />
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-            <element signature="e#965#966#0" expanded="true" />
-            <element signature="e#992#993#0" expanded="true" />
-            <element signature="e#1059#1060#0" expanded="true" />
-            <element signature="e#1086#1087#0" expanded="true" />
-            <element signature="e#1148#1149#0" expanded="true" />
-            <element signature="e#1175#1176#0" expanded="true" />
-            <element signature="e#820#821#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-            <element signature="e#898#899#0" expanded="true" />
-            <element signature="e#925#926#0" expanded="true" />
-            <element signature="e#1031#1032#0" expanded="true" />
-            <element signature="e#1058#1059#0" expanded="true" />
-            <element signature="e#1107#1108#0" expanded="true" />
-            <element signature="e#1134#1135#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/les_10_interfaces/PersonByAgeComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ComparableTimSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="261" selection-start-line="261" selection-end-line="261" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/les_10_interfaces/TestPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="16" column="108" selection-start-line="16" selection-start-column="108" selection-end-line="16" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="1502" column="27" selection-start-line="1502" selection-start-column="27" selection-end-line="1502" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/library/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/library/Library.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4165">
+          <caret line="270" column="29" selection-start-line="270" selection-start-column="29" selection-end-line="270" selection-end-column="29" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/library/TestLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/library/BookByAuthorComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/library/BookByNameComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/les_11_enums/Season.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/les_11_enums/TestSeason.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="229" column="40" selection-start-line="229" selection-start-column="40" selection-end-line="229" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/les_11_enums/AppleByPriceComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="60" lean-forward="true" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/les_11_enums/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding>
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/les_11_enums/TestApple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
         </state>
       </provider>
     </entry>
