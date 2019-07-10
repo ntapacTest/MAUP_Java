@@ -17,5 +17,6 @@ public class TaskMap {
         String word = scanner.next();
 
         dic.translate(word);
+
     }
 }

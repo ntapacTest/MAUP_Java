@@ -35,7 +35,7 @@ public class TaskStream {
     }
 
     public static void modifyData(String inFileName, String outFileName) {
-        // more than one resources in one try catch block
+        // more than one resources in one   try catch block
         try (
                 BufferedReader br = new BufferedReader(new FileReader(inFileName));
                 FileWriter fr = new FileWriter(outFileName)) {
