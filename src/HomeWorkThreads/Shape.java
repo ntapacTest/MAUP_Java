@@ -6,7 +6,7 @@ import java.io.IOException;
 public abstract class Shape implements IGetArea {
     String shapeName;
 
-    int value;
+    protected int value;
 
     public Shape(String shapeName, int value) {
         this.shapeName = shapeName;

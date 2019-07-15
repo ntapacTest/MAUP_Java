@@ -2,15 +2,18 @@ package HomeWorkThreads;
 
 public class AreaCounterThread extends Thread {
 
-    Shape shape;
+    private IShapeBuilder shapeBuilder;
+    private int[] valuesArray;
 
-    public AreaCounterThread(Shape shape) {
-        this.shape = shape;
+    public AreaCounterThread(IShapeBuilder shapeBuilder, int[] valuesArray) {
+        this.valuesArray=valuesArray;
+        this.shapeBuilder=shapeBuilder;
     }
 
     @Override
     public void run() {
-
-        shape.writeInfoToFS();
+        for (int i = 0; i < valuesArray.length; i++) {
+            shapeBuilder.createShape(i).writeInfoToFS();
+        }
     }
 }
