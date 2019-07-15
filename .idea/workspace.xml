@@ -6,39 +6,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/les_12_exceptions/TestStudentTeacher.java" line="13" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94958fa7-43ac-4443-a27d-846ac9121dc3" name="Default Changelist" comment="Add Task01">
-      <change afterPath="$PROJECT_DIR$/EngUkr.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_14_set_map/TaskDictionaryFS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_16_files_on_disk/TestFiles.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_17_multithread/MyTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_17_multithread/MyThread1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_17_multithread/MyThread2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_17_multithread/TestMultiThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_17_multithread/TestRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_17_multithread/TestThreadStates.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_17_synchro/CounterThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_17_synchro/MyCounter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_17_synchro/TestSynchro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_14_set_map/TaskDictionaryFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_16_files_on_disk/TestFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_17_multithread/MyTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_17_multithread/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_17_multithread/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_17_multithread/TestMultiThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_17_multithread/TestRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_17_multithread/TestThreadStates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_17_synchro/CounterThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_17_synchro/MyCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_17_synchro/TestSynchro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_14_set_map/Dictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_14_set_map/Dictionary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_14_set_map/TaskMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_14_set_map/TaskMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_16_io_streams/TaskStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_16_io_streams/TaskStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/les_14_set_map/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/les_14_set_map/Dictionary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/les_14_set_map/TaskMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/les_14_set_map/TaskMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/les_16_io_streams/TaskStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/les_16_io_streams/TaskStream.java" afterDir="false" />
-    </list>
+    <list default="true" id="94958fa7-43ac-4443-a27d-846ac9121dc3" name="Default Changelist" comment="Add Task01" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -298,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestMultiThread">
+  <component name="RunManager" selected="Application.TestHomeWorkThread">
     <configuration name="Task02" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="les_03_strings.Task02" />
       <module name="MAUP_JavaProject" />
@@ -312,12 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="les_16_files_on_disk.TestFiles" />
+    <configuration name="TestHomeWorkThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWorkThreads.TestHomeWorkThread" />
       <module name="MAUP_JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="les_16_files_on_disk.*" />
+          <option name="PATTERN" value="HomeWorkThreads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,11 +347,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestHomeWorkThread" />
         <item itemvalue="Application.TestMultiThread" />
         <item itemvalue="Application.TestSynchro" />
         <item itemvalue="Application.TestThreadStates" />
         <item itemvalue="Application.TestRunnable" />
-        <item itemvalue="Application.TestFiles" />
       </list>
     </recent_temporary>
   </component>
@@ -447,7 +415,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28322148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -458,7 +425,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47516778" visible="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47516778" weight="0.32909605" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4852349" weight="0.3997175" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
