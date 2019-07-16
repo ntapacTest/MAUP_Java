@@ -13,6 +13,8 @@ public class TestLocalAnonymous {
             }
         };
 
+        System.out.println(car.getClass().getName());
+
         // 2. Anonymous class by implements (Interface)
         //    new class .. (.. implements Comparator<Car>)
         Comparator<Car> comparator=new Comparator<Car>() {

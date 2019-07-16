@@ -7,20 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94958fa7-43ac-4443-a27d-846ac9121dc3" name="Default Changelist" comment="Add Task01">
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkThreads/CircleBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkThreads/IShapeBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkThreads/SquareBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_18_inner_nested_anonymous/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_18_inner_nested_anonymous/TestInnerNested.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_18_inner_nested_anonymous/TestLocalAnonymous.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MAUP_JavaProject/HomeWorkThreads/AreaCounterThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/HomeWorkThreads/AreaCounterThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MAUP_JavaProject/HomeWorkThreads/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/HomeWorkThreads/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MAUP_JavaProject/HomeWorkThreads/TestHomeWorkThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/HomeWorkThreads/TestHomeWorkThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shapeInfo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/shapeInfo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorkThreads/AreaCounterThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkThreads/AreaCounterThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorkThreads/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkThreads/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorkThreads/TestHomeWorkThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorkThreads/TestHomeWorkThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/les_18_inner_nested_anonymous/TestLocalAnonymous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/les_18_inner_nested_anonymous/TestLocalAnonymous.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,27 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/les_18_inner_nested_anonymous/Car.java">
+        <entry file="file://$PROJECT_DIR$/src/les_18_inner_nested_anonymous/TestInnerNested.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/les_18_inner_nested_anonymous/TestInnerNested.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -63,14 +33,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/les_18_inner_nested_anonymous/TestLocalAnonymous.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+            <state relative-caret-position="255">
+              <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
               <folding>
-                <element signature="e#171#350#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#738#739#0" expanded="true" />
-                <element signature="e#884#885#0" expanded="true" />
-                <element signature="e#926#927#0" expanded="true" />
+                <element signature="e#201#417#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -173,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -203,6 +169,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -382,9 +349,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2872483" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29051173" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -393,7 +360,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47449663" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47449663" weight="0.32827735" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4852349" weight="0.3997175" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -492,13 +459,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="1152" column="15" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/les_15_equals_hashcode/Task01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -596,13 +557,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/Writer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="159" column="7" lean-forward="true" selection-start-line="158" selection-end-line="159" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/Writer.java" />
     <entry file="file://$PROJECT_DIR$/src/les_16_io_streams/TestFileWriter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -679,36 +634,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="613" column="18" selection-start-line="613" selection-start-column="18" selection-end-line="613" selection-end-column="18" />
-          <folding>
-            <element signature="e#23018#23019#0" expanded="true" />
-            <element signature="e#23057#23058#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="845" selection-start-line="845" selection-end-line="845" />
-          <folding>
-            <element signature="e#6252#6253#0" expanded="true" />
-            <element signature="e#6320#6321#0" expanded="true" />
-            <element signature="e#31086#31087#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/Files.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="626" column="22" selection-start-line="626" selection-start-column="18" selection-end-line="626" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/File.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/Files.java" />
     <entry file="file://$PROJECT_DIR$/src/les_16_files_on_disk/TestFiles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
@@ -726,24 +654,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="1532" column="31" selection-start-line="1532" selection-start-column="31" selection-end-line="1532" selection-end-column="31" />
-          <folding>
-            <element signature="e#14781#14782#0" expanded="true" />
-            <element signature="e#14845#14846#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Thread.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Runnable.java" />
     <entry file="file://$PROJECT_DIR$/src/les_14_set_map/TaskDictionaryFS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -835,17 +747,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HomeWorkThreads/CircleBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWorkThreads/CircleBuilder.java" />
     <entry file="file://$PROJECT_DIR$/src/HomeWorkThreads/IGetArea.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -853,31 +755,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HomeWorkThreads/ShapeBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HomeWorkThreads/SquareBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HomeWorkThreads/IShapeBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWorkThreads/ShapeBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/HomeWorkThreads/SquareBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/HomeWorkThreads/IShapeBuilder.java" />
     <entry file="file://$PROJECT_DIR$/src/HomeWorkThreads/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -892,45 +772,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Comparator.java" />
+    <entry file="file://$PROJECT_DIR$/src/les_18_inner_nested_anonymous/Car.java" />
     <entry file="file://$PROJECT_DIR$/src/les_18_inner_nested_anonymous/TestInnerNested.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/les_18_inner_nested_anonymous/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/les_18_inner_nested_anonymous/TestLocalAnonymous.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+        <state relative-caret-position="255">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
           <folding>
-            <element signature="e#171#350#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
-            <element signature="e#884#885#0" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#201#417#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
           </folding>
         </state>
       </provider>
