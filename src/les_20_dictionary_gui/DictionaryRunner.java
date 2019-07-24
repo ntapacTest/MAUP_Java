@@ -2,7 +2,7 @@ package les_20_dictionary_gui;
 
 import les_14_set_map.Dictionary;
 
-public class TestDictionary {
+public class DictionaryRunner {
     public static void main(String[] args) {
         String fileName="EngUkr.txt";
         DictionaryModel dictionaryModel = new DictionaryModel();

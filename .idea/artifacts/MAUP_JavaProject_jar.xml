@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MAUP_JavaProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MAUP_JavaProject_jar</output-path>
+    <root id="archive" name="MAUP_JavaProject.jar">
+      <element id="module-output" name="MAUP_JavaProject" />
+    </root>
+  </artifact>
+</component>

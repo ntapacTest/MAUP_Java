@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: les_20_dictionary_gui.DictionaryRunner
+
