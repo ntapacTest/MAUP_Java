@@ -12,11 +12,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94958fa7-43ac-4443-a27d-846ac9121dc3" name="Default Changelist" comment="Add Task01">
-      <change afterPath="$PROJECT_DIR$/src/les_23_wildcards/ArrayPolymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_23_wildcards/GenericPolymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_23_wildcards/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/les_23_wildcards/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/h2_1_4_199.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_24_builder_pettern/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_24_builder_pettern/testBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/les_25_db_intro/TestDB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAUP_JavaProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MAUP_JavaProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_23_wildcards/GenericPolymorphism.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MAUP_JavaProject/les_23_wildcards/GenericPolymorphism.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,22 +35,55 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/les_23_wildcards/ArrayPolymorphism.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="41" column="5" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+            <state relative-caret-position="697">
+              <caret line="41" column="5" selection-start-line="36" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/les_23_wildcards/GenericPolymorphism.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="70" column="7" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/les_24_builder_pettern/Entity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#864#865#0" expanded="true" />
+                <element signature="e#897#898#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/les_24_builder_pettern/testBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/les_23_wildcards/GenericPolymorphism.java">
+        <entry file="file://$PROJECT_DIR$/src/les_25_db_intro/TestDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="68" column="67" lean-forward="true" selection-start-line="68" selection-start-column="67" selection-end-line="68" selection-end-column="67" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#344#352#0" expanded="true" />
-                <element signature="e#586#595#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="422">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -78,9 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/les_17_multithread/MyTask.java" />
-        <option value="$PROJECT_DIR$/src/les_17_multithread/TestThreadStates.java" />
-        <option value="$PROJECT_DIR$/src/les_17_synchro/CounterThread.java" />
         <option value="$PROJECT_DIR$/src/les_17_synchro/MyCounter.java" />
         <option value="$PROJECT_DIR$/src/les_17_synchro/TestSynchro.java" />
         <option value="$PROJECT_DIR$/src/les_17_multithread/TestMultiThread.java" />
@@ -129,6 +161,9 @@
         <option value="$PROJECT_DIR$/src/les_23_wildcards/ArrayPolymorphism.java" />
         <option value="$PROJECT_DIR$/src/les_23_wildcards/Manager.java" />
         <option value="$PROJECT_DIR$/src/les_23_wildcards/GenericPolymorphism.java" />
+        <option value="$PROJECT_DIR$/src/les_24_builder_pettern/Entity.java" />
+        <option value="$PROJECT_DIR$/src/les_24_builder_pettern/testBuilder.java" />
+        <option value="$PROJECT_DIR$/src/les_25_db_intro/TestDB.java" />
       </list>
     </option>
   </component>
@@ -150,6 +185,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -165,25 +201,30 @@
             </path>
             <path>
               <item name="MAUP_JavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MAUP_Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="les_08_abstract" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MAUP_JavaProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MAUP_Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="les_23_wildcards" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="MAUP_JavaProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="h2-1.4.199" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="MAUP_JavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="h2-1.4.199" type="70bed36:NamedLibraryElementNode" />
+              <item name="h2-1.4.199.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MAUP_JavaProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="h2-1.4.199" type="70bed36:NamedLibraryElementNode" />
+              <item name="h2-1.4.199.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="h2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,8 +233,8 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/garage" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_opened_file_path" value="C:/H2/bin/h2-1.4.199.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
@@ -205,6 +246,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Test_8\MAUP_Java\src\garage" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="=DriverManager.getConnection(&quot;jdbc:h2:mem:test&quot;)" />
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -218,7 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericPolymorphism">
+  <component name="RunManager" selected="Application.TestDB">
     <configuration name="ArrayPolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="les_23_wildcards.ArrayPolymorphism" />
       <module name="MAUP_JavaProject" />
@@ -258,12 +304,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestComposeAndThen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="les_21_lambda.TestComposeAndThen" />
+    <configuration name="TestDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="les_25_db_intro.TestDB" />
       <module name="MAUP_JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="les_21_lambda.*" />
+          <option name="PATTERN" value="les_25_db_intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,12 +330,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStreamAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="les_22_stream_api.TestStreamAPI" />
+    <configuration name="testBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="les_24_builder_pettern.testBuilder" />
       <module name="MAUP_JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="les_22_stream_api.*" />
+          <option name="PATTERN" value="les_24_builder_pettern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,11 +345,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestDB" />
+        <item itemvalue="Application.testBuilder" />
         <item itemvalue="Application.GenericPolymorphism" />
         <item itemvalue="Application.ArrayPolymorphism" />
         <item itemvalue="Application.TestHWStreams" />
-        <item itemvalue="Application.TestStreamAPI" />
-        <item itemvalue="Application.TestComposeAndThen" />
       </list>
     </recent_temporary>
   </component>
@@ -367,9 +413,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32416108" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32885906" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -378,7 +423,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4738255" visible="true" weight="0.32627118" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4738255" weight="0.32627118" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4852349" weight="0.3983051" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -510,12 +555,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/swing/WindowConstants.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/awt/event/ActionEvent.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/awt/event/ActionListener.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/swing/JComponent.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/swing/AbstractButton.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/swing/JButton.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/javafx-src.zip!/javafx/scene/input/KeyCode.java" />
     <entry file="file://$PROJECT_DIR$/src/les_18_inner_nested_anonymous/Task01.java" />
     <entry file="file://$PROJECT_DIR$/src/les_19_gui/HelloWorldWindow.java" />
@@ -640,20 +679,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/les_23_wildcards/ArrayPolymorphism.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+        <state relative-caret-position="697">
+          <caret line="41" column="5" selection-start-line="36" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/les_23_wildcards/GenericPolymorphism.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="68" column="67" lean-forward="true" selection-start-line="68" selection-start-column="67" selection-end-line="68" selection-end-column="67" />
+        <state relative-caret-position="561">
+          <caret line="70" column="7" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#344#352#0" expanded="true" />
-            <element signature="e#586#595#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/les_24_builder_pettern/Entity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#897#898#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/les_24_builder_pettern/testBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/H2/bin/h2-1.4.199.jar!/org/h2/Driver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/H2/bin/h2-1.4.199.jar!/org/h2/jdbc/JdbcStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="149" selection-start-line="149" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-836">
+          <caret line="147" column="17" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/les_25_db_intro/TestDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -716,7 +803,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -724,6 +810,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>h2-1.4.199</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
